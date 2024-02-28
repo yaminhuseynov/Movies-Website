@@ -1,0 +1,58 @@
+.btn {
+
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    padding: 7px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    transition-duration: .3s;
+
+
+
+
+}
+
+.btn-primary{
+
+    background-color: #FC997C;
+    color: #fff;
+    border: 2px solid #FC997C;
+
+}
+
+
+.btn-primary:hover{
+
+background-color:#fff;
+color: #2E4C6D;
+border: 2px solid #FC997C;
+
+}
+
+
+
+
+
+
+.btn-secondary{
+
+    background-color: #00A9FF;
+    color: #fff;
+    border: 2px solid #00A9FF;
+
+}
+
+
+
+.btn-secondary:hover{
+
+background-color: #fff;
+color: #2E4C6D;
+border: 2px solid #00A9FF;
+
+}
+
+
+
